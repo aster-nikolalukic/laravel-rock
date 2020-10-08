@@ -1,2 +1,15 @@
+
 # laravel-rock
-Laravel-server vs vue-client . Basics project for learning laravel/php.
+
+## Objective
+
+  Laravel-server vs vue-client basics.
+  Project for learning laravel/php.
+
+
+## Install
+
+```
+  composer create-project laravel/laravel laravel-rock
+```
+
